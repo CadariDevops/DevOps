@@ -1,0 +1,7 @@
+Created git account github with cadari.python@gmail.com
+
+
+git init
+
+creating ssh key  >ssh-keygen -t ed25519 -C "cadari.python@gmail.com"
+
